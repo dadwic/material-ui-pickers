@@ -1,6 +1,6 @@
 export const CODESANDBOX_EXAMPLE_ID = 'o7oojxx1pq';
 
-export const DOMAIN = 'material-ui-pickers.dev';
+export const DOMAIN = 'material-ui-pickers.ir';
 
 export const HOST_URL = 'https://' + DOMAIN;
 
